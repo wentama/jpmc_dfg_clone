@@ -1,7 +1,9 @@
 # Team-12
 Data for Good 2022
 
-This project was developed for Data for Good Hackathon 2022 organized by JP Morgan Chase in Columbus, Ohio
+This project was developed for Data for Good Hackathon 2022 organized by JP Morgan Chase in Columbus, Ohio. Members of Team 12 include Brian Fernando (Purdue), Wen Tao Lin (CWRU), Krushna Malapati (CMU), James Pineda (NJIT), Andrew Shih (UC Berkeley), Sutej Singh (USC), and Bara Zekeria (UCSD).
+
+This repository is a cloned version of the original team repo for the hackathon. 
 
 ## Problem
 Star House operates Central Ohio's only drop-in center for youth, ages 14-24, Who are experiencing homelessness. At our 24/7/365 drop-in center, youth are provided access to food, clothing, hygiene items, laundry facilities, showers and a safe place to be. Beyond basic needs, our clinical team provides therapy and case management, and partner agencies provide on-site and community-based access to stabilizing resources, such as housing, transportation, health care, employment, education, addiction services, legal aid, government benefits, ID cards and more.
